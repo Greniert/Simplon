@@ -1,0 +1,72 @@
+/* Général */
+p{
+
+}
+
+h2{
+  font-family: Lobster,serif;
+
+}
+
+h3{
+
+}
+.ensemble{
+  margin-top: 20px;
+}
+.gauche{
+  float: left;
+  width:20%;
+  background-color:  #d1cfcf;
+  padding: 15pt 5pt  ;
+  height: 1000px;
+}
+
+.droite{
+  float: right;
+  width: 75%;
+}
+
+/*Header*/
+header{
+  background-color: #5DB360;
+  height: 100px;
+}
+.top{
+  text-align: center;
+  background-image: image(image/header.jpg);
+}
+
+/*Présentation*/
+
+#pp{
+  margin-left: 20px
+}
+
+.droite, h2{
+border-bottom: 1px  #878686 solid;
+}
+
+h4{
+  border-bottom: 1px  #878686 solid;
+}
+
+#presentation p{
+font-size: 12px;
+}
+/*.gauche, h3{
+  border-bottom: 1px  #878686 solid;
+}*/
+
+/*Formation*/
+
+
+
+/*Expériences*/
+
+
+/*Compétence*/
+
+
+
+/*centre d'intéret*/
